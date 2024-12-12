@@ -41,9 +41,6 @@ const BankSideBar = () => {
               <p  className={cn('sidebar-lable text-black-1' , {'text-white' : isActive})}>
               {items.label}
               </p>
-              <p>
-                asklslkd
-              </p>
             </Link>
           );
         })}
