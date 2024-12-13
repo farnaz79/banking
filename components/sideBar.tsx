@@ -27,6 +27,9 @@ const BankSideBar = () => {
           />
           <h1 className="sidebar-logo">Horizin</h1>
           <p>a;lsk;l</p>
+          <p>
+            sad;sdasdl
+          </p>
         </Link>
         {sidebarLinks.map((items) => {
           const isActive = pathName === items.route || pathName
