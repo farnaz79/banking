@@ -49,6 +49,7 @@ const BankSideBar = () => {
           );
         })}
       </nav>
+      <p>alaki</p>
     </section>
   );
 };
