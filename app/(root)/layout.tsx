@@ -18,7 +18,7 @@ export default function RootLayout({
           
         </div>
       </div>
-
+<p>just for commit<p/>
     </div>
     {children}
    </main>
