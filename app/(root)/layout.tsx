@@ -15,6 +15,7 @@ export default function RootLayout({
       <div className="root-layout" >
         <Image src='/icons/logo.svg' width={30} height={30} alt='menu' />
         <div>
+snsnsnsnsm
           
         </div>
       </div>
