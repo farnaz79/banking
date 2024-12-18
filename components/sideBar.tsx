@@ -29,6 +29,7 @@ const BankSideBar = () => {
           <p>a;lsk;l</p>
           <p>
             sad;sdasdl
+            lksdjflkdjfksdflk
           </p>
         </Link>
         {sidebarLinks.map((items) => {
