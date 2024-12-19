@@ -1,6 +1,6 @@
+
 import HeaderBox from "@/components/HeaderBox";
 import TotalBalencBox from "@/components/TotalBalencBox";
-import React from "react";
 
 const Sidebar = () => {
   const loggedIn = { firstName: "Farnaz" };
